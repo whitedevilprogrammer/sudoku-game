@@ -4,30 +4,31 @@ A professional, console-based Sudoku puzzle game written in Python.
 
 ---
 
+## 📸 Showcase
+
+- [Instagram Project Post](https://www.instagram.com/p/CY_8Y1-py69/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+  
 ## 🎬 Demo
 
 - [Instagram Demo Video](https://www.instagram.com/reel/CY_6cVHB8iN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-## 📸 Showcase
-
-- [Instagram Project Post](https://www.instagram.com/p/CY_8Y1-py69/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ---
 
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [File Structure](#file-structure)
-- [Technologies Used](#technologies-used)
+- [Getting-Started](#getting-started)
+- [How-to-Play](#how-to-play)
+- [File-Structure](#file-structure)
+- [Technologies-Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ---
 
-## ✨ Features
+## Features
 
 - **Automatic Sudoku Board Generation:**  
   Creates a new valid Sudoku puzzle each play.
@@ -44,7 +45,7 @@ A professional, console-based Sudoku puzzle game written in Python.
 
 ---
 
-## 🚀 Getting Started
+## Getting-Started
 
 ### Prerequisites
 
@@ -67,7 +68,7 @@ python main_sudoku.py
 
 ---
 
-## 🎮 How to Play
+## How-to-Play
 
 1. **Read the Rules:**  
    The game starts by displaying Sudoku rules and an example board.
@@ -90,7 +91,7 @@ python main_sudoku.py
 
 ---
 
-## 📂 File Structure
+## File-Structure
 
 ```
 sudoku-game/
@@ -99,14 +100,14 @@ sudoku-game/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies-Used
 
 - **Python** (Standard Library)
   - `random` for Sudoku generation and puzzle randomization
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome your contributions!
 
@@ -118,14 +119,14 @@ We welcome your contributions!
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License.  
 See [LICENSE](LICENSE) for more information.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - Instagram: [@whitedevilprogrammer](https://www.instagram.com/whitedevilprogrammer)
 - GitHub Issues: [Submit here](https://github.com/whitedevilprogrammer/sudoku-game/issues)
